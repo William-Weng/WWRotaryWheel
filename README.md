@@ -1,12 +1,12 @@
-# WWSegmentControl
-一個自訂有QQ動畫的SegmentControl
+# WWRotaryWheel
+一個滾輪Tab按鈕
 
 [![Swift 4.0](https://img.shields.io/badge/Swift-4.0-orange.svg?style=flat)](https://developer.apple.com/swift/) [![Version](https://img.shields.io/cocoapods/v/WWRotaryWheel.svg?style=flat)](http://cocoapods.org/pods/WWRotaryWheel) [![Platform](https://img.shields.io/cocoapods/p/WWRotaryWheel.svg?style=flat)](http://cocoapods.org/pods/WWRotaryWheel) [![License](https://img.shields.io/cocoapods/l/WWRotaryWheel.svg?style=flat)](http://cocoapods.org/pods/WWRotaryWheel)
 
-![一個自訂的SegmentControl (上傳至Cocoapods)](./WWRotaryWheel.gif)
+![一個滾輪Tab按鈕 (上傳至Cocoapods)](https://raw.githubusercontent.com/William-Weng/WWRotaryWheel/master/WWRotaryWheel.gif)
 
 # 使用範例
-![IBOutlet](./IBOutlet.png)
+![IBOutlet](https://raw.githubusercontent.com/William-Weng/WWRotaryWheel/master/IBOutlet.png)
 
 ```swift
 import UIKit
