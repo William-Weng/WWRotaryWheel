@@ -202,8 +202,6 @@ SWIFT_CLASS("_TtC13WWRotaryWheel13WWRotaryWheel")
 
 
 
-
-
 @class UITouch;
 @class UIEvent;
 
@@ -213,6 +211,8 @@ SWIFT_CLASS("_TtC13WWRotaryWheel13WWRotaryWheel")
 - (void)touchesEnded:(NSSet<UITouch *> * _Nonnull)touches withEvent:(UIEvent * _Nullable)event;
 - (void)touchesCancelled:(NSSet<UITouch *> * _Nonnull)touches withEvent:(UIEvent * _Nullable)event;
 @end
+
+
 
 
 

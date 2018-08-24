@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
 
   s.name         				= "WWRotaryWheel"
-  s.version      				= "0.1.0"
+  s.version      				= "0.2.0"
   s.summary      				= "WWRotaryWheel is a tab rotary button. (一個滾輪Tab按鈕)"
   s.homepage     				= "https://github.com/William-Weng/WWRotaryWheel"
   s.license      				= { :type => "MIT", :file => "LICENSE" }
