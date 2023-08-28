@@ -1,4 +1,5 @@
-# :no_entry: [DEPRECATED] Active at https://github.com/William-Weng/WWRotaryWheel
+# :no_entry: [DEPRECATED](https://github.com/William-Weng/WWRotaryWheel)
+
 ## WWRotaryWheel
 一個滾輪Tab按鈕
 
