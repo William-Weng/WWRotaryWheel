@@ -1,4 +1,5 @@
-# WWRotaryWheel
+# :no_entry: [DEPRECATED] Active at https://github.com/William-Weng/WWRotaryWheel
+## WWRotaryWheel
 一個滾輪Tab按鈕
 
 [![Swift 4.0](https://img.shields.io/badge/Swift-4.0-orange.svg?style=flat)](https://developer.apple.com/swift/) [![Version](https://img.shields.io/cocoapods/v/WWRotaryWheel.svg?style=flat)](http://cocoapods.org/pods/WWRotaryWheel) [![Platform](https://img.shields.io/cocoapods/p/WWRotaryWheel.svg?style=flat)](http://cocoapods.org/pods/WWRotaryWheel) [![License](https://img.shields.io/cocoapods/l/WWRotaryWheel.svg?style=flat)](http://cocoapods.org/pods/WWRotaryWheel)
